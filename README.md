@@ -1,4 +1,4 @@
-# NexRec — Hybrid Recommendation System UI
+# NexAura — Hybrid Recommendation System UI
 
 ## Folder Structure
 ```
